@@ -1,0 +1,1 @@
+C:\Users\swrds\Documents\NJIT\docker_projects>docker run hello-world
